@@ -1,9 +1,14 @@
-{background-color: 
-	lightpink;
+body {background-color: lightpink;}
+body {color: navy;}
+body {font-family: sans-serif;}
+h1 {font-weight: bold; font-size: 60px; text-align: center;
 }
-{color: 
-	navy;
+ul.nav li {color: white;}
+ul.nav li {display: inline;}
+ul.nav li {padding: 70px;}
+#nelly {
+    display: block;
+    margin: auto;
+    width: 40%;
 }
-{
-	font-family: sans-serif;
-}
+
